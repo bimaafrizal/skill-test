@@ -1,3 +1,4 @@
+package video1;
 // a menabung sebesar 750k dibulan pertama dapat bunga 6% pada bulan berikutnya, 
 //bulan berikutnya andi menusuhkan 3% dari tabungan dan maksimal yang disihkan 3% dari total tabungan
 

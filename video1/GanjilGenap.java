@@ -1,3 +1,4 @@
+package video1;
 import java.util.ArrayList;
 
 // memisahkan ganjil dan genap angka 1 s/d 100
